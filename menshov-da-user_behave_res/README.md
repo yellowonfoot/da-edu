@@ -26,4 +26,5 @@
 
 Python, Pandas, Matplotlib, Seaborn, Plotly
 
-Также добавлена html версия ноутбука для отображения объектов Plotly.
+Также добавлена html версия ноутбука для отображения объектов Plotly. Чтобы не скачивать файл, добавляю ссылку на nbviewer:
+https://nbviewer.org/github/yellowonfoot/da-edu/blob/main/menshov-da-user_behave_res/menshov-da-user_behave_res.ipynb
