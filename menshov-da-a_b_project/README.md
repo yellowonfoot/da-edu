@@ -28,7 +28,7 @@
 
 ## Применяемые библиотеки
 
-Python, Pandas, Seaborn, Plotly, Scipy, Matplotlib
+Python, Pandas, Matplotlib, SciPy
 
 Также добавлена html версия ноутбука для отображения объектов Plotly. Чтобы не скачивать файл, добавляю ссылку на nbviewer:
 https://nbviewer.org/github/yellowonfoot/da-edu/blob/main/menshov-da-a_b_project/menshov-da-a_b_project.ipynb
