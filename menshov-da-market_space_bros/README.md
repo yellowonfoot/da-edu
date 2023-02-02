@@ -33,4 +33,4 @@
 Python, Pandas, Seaborn, Plotly, Scipy
 
 Также добавлена html версия ноутбука для отображения объектов Plotly. Чтобы не скачивать файл, добавляю ссылку на nbviewer:
-https://nbviewer.org/github/yellowonfoot/da-edu/blob/main/menshov-da-catering_moscow/menshov-da-catering_moscow.ipynb
+https://nbviewer.org/github/yellowonfoot/da-edu/blob/main/menshov-da-market_space_bros/menshov-da-market_space_bros.ipynb
