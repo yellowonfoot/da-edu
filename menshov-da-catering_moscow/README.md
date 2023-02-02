@@ -26,3 +26,6 @@
 ## Применяемые библиотеки
 
 Python, Pandas, Seaborn, Plotly
+
+Также добавлена html версия ноутбука для отображения объектов Plotly и карт. Чтобы не скачивать файл, добавляю ссылку на nbviewer:
+https://nbviewer.org/github/yellowonfoot/da-edu/blob/main/menshov-da-catering_moscow/menshov-da-catering_moscow.ipynb
